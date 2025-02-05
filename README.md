@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+欢迎来到我的GitHub主页！🎉
+
+我是一个专注于**C++**、**Python**和**深度学习**的开发者。我的项目主要聚焦于**目标检测**。
+  
+## ⚙️ 我使用的技术
+
+- **编程语言**: C++、Python
+- **框架**: OpenCV、TensorRT、PyTorch、ONNX
+
+## 🌱 如何联系我
+
+- 邮箱: [1778064763@qq.com](1778064763@qq.com)
+
+## ⚡ Fun fact
+- 我喜欢解决复杂问题，并优化系统性能 🧠
+- 我相信持续学习，并不断提升编程技能 💡
+- 在空闲时间，我喜欢探索AI研究和新技术 🌍

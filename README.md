@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 
 ## 📂 博客
 - 简书: [leon](https://www.jianshu.com/u/b249e2414aa4)
-
-## ⚡ 嘻嘻
-- 有空一起打🎱   🐶

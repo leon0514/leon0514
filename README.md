@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center">
   <span>  </span>
-  <h> 昨日之深渊,今日之浅谈;想的是你,放不下的还是你！ </h>
+  <img alt="Static Badge" src="https://img.shields.io/badge/%E6%98%A8%E6%97%A5%E4%B9%8B%E6%B7%B1%E6%B8%8A%2C%E4%BB%8A%E6%97%A5%E4%B9%8B%E6%B5%85%E8%B0%88%3B%E6%83%B3%E7%9A%84%E6%98%AF%E4%BD%A0%2C%E6%94%BE%E4%B8%8D%E4%B8%8B%E7%9A%84%E8%BF%98%E6%98%AF%E4%BD%A0">
   <span>  </span>
   </div>
   
@@ -15,7 +15,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sesmfs/sesmfs/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/leon0514/leon0514/refs/heads/output/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">

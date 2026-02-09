@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://www.jianshu.com/u/b249e2414aa4">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
+  </a>
+</div>
+
+![]([https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/leon0514/leon0514/74cad83845bc4f5c0ad26bbc7e7e06b0ae52d0d3/github-contribution-grid-snake-dark.svg))
+
+
 ## Hi there 👋
 
 <!--

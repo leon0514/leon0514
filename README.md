@@ -16,9 +16,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://raw.githubusercontent.com/leon0514/leon0514/refs/heads/output/hr.gif" />
 
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-
 
 ## Hi there 👋
 

@@ -8,7 +8,8 @@
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leon0514/leon0514/74cad83845bc4f5c0ad26bbc7e7e06b0ae52d0d3/github-contribution-grid-snake-dark.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sesmfs/sesmfs/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/leon0514/leon0514/74cad83845bc4f5c0ad26bbc7e7e06b0ae52d0d3/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/leon0514/leon0514/edc24ef6be001262913eeaf24aee9f97bdcaf610/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>

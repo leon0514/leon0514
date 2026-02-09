@@ -1,9 +1,23 @@
 <div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
-  </a>
+  <div align="center">
+  <span>  </span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=sesmfs" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesmfs&layout=compact&langs_count=8" />
+  <span>  </span>
+  </div>
+  
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leon0514/leon0514/74cad83845bc4f5c0ad26bbc7e7e06b0ae52d0d3/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sesmfs/sesmfs/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
 </div>
-![]([https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/leon0514/leon0514/74cad83845bc4f5c0ad26bbc7e7e06b0ae52d0d3/github-contribution-grid-snake-dark.svg))
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sesmfs/sesmfs/assets/images/hr.gif" />
+
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
 
 
 ## Hi there 👋
